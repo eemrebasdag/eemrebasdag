@@ -34,7 +34,7 @@
 
 <table style="border-style:none;">
 <tr>
-<td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eemrebasdag&show_icons=true&locale=en&layout=compact" alt="eemrebasdag" /></p></td>
+<td style="margin:auto;"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eemrebasdag&show_icons=true&locale=en&layout=compact" alt="eemrebasdag" /></p></td>
   </tr>
 
 <tr>
