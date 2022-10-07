@@ -32,16 +32,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/emiremrebasdag"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emiremrebasdag" /></a></p><br><br>
 
-<table style="border-style:none;">
-<tr>
-<td style="margin:3px;"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eemrebasdag&show_icons=true&locale=en&layout=compact" alt="eemrebasdag" /></p></td>
-  </tr>
 
-<tr>
-<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eemrebasdag&show_icons=true&locale=en" alt="eemrebasdag" /></p></td>
-  </tr>
+<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eemrebasdag&show_icons=true&locale=en&layout=compact" alt="eemrebasdag" /></p>
+<br><br>
 
-<tr>
-<td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eemrebasdag&" alt="eemrebasdag" /></p></td>
- </tr>
-  </table>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eemrebasdag&show_icons=true&locale=en" alt="eemrebasdag" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eemrebasdag&" alt="eemrebasdag" /></p>
