@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eemrebasdag" target="blank"><img src="https://img.shields.io/twitter/follow/eemrebasdag?logo=twitter&style=for-the-badge" alt="eemrebasdag" /></a> </p>
 
-- 🔭 I’m currently working on [a Blog Project with ASP.Net Core](https://github.com/eemrebasdag/BlogProject)
+- 🔭 I’m currently working on [an E-Commerce Website with ASP.Net Core](https://github.com/eemrebasdag/BlogProject)
 
 - 🌱 I’m currently learning **ASP.Net Core and Blazor**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [My Blog Project with ASP.Net Core](https://github.com/eemrebasdag/BlogProject)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1gyafAXBGSn3RKFD8prLzif6DIz1_PkLb](https://drive.google.com/drive/folders/1gyafAXBGSn3RKFD8prLzif6DIz1_PkLb)
+- 👨‍💻 All of my projects are available at My Repositories [https://github.com/eemrebasdag?tab=repositories](https://github.com/eemrebasdag?tab=repositories)
 
 - 💬 Ask me about **whichever project that I shared publicly on my GitHub Profile**
 
