@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A passionate .Net developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eemrebasdag&label=Profile%20views&color=0e75b6&style=flat" alt="eemrebasdag" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [an E-Commerce Website with ASP.Net Core](https://github.com/eemrebasdag/BlogProject)
 
-- 🌱 I’m currently learning **ASP.Net Core and Blazor**
+- 🌱 I’m currently learning **Blazor**
 
 - 👯 I’m looking to collaborate on [an Advertisement Website Project](https://github.com/eemrebasdag/WebsiteProject)
 
