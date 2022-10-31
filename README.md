@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eemrebasdag" target="blank"><img src="https://img.shields.io/twitter/follow/eemrebasdag?logo=twitter&style=for-the-badge" alt="eemrebasdag" /></a> </p>
 
-- 🔭 I’m currently working on [an E-Commerce Website with ASP.Net Core](https://github.com/eemrebasdag/BlogProject)
+- 🔭 You Can Take a Look At ! [E-Commerce Website with ASP.Net Core](https://github.com/eemrebasdag/eCommerce_Book_ASP.NET_Core_MVC)
 
 - 🌱 I’m currently learning **Blazor**
 
