@@ -7,7 +7,7 @@
 
 - 🔭 You Can Take a Look At ! [E-Commerce Website with ASP.Net Core](https://github.com/eemrebasdag/eCommerce_Book_ASP.NET_Core_MVC)
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **React**<i class="fa-brands fa-react"></i>
 
 - 👯 I’m looking to collaborate on [an Advertisement Website Project](https://github.com/eemrebasdag/WebsiteProject)
 
