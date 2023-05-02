@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [ASP.NET Core E-commerce Project](https://github.com/eemrebasdag/eCommerce_Book_ASP.NET_Core_MVC)  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning ASP.NET Core
   
 
 - ❓ Ask me about anything related to my projects.  
