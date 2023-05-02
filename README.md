@@ -14,8 +14,6 @@
 
 - ❓ Ask me about anything related to my projects.  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
