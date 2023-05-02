@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Emre, a Front-End Developer 👨‍💻 </div>  
+### <div align="center">I'm Emre, a FullStack Developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [ASP.NET Core E-commerce Project](https://github.com/eemrebasdag/eCommerce_Book_ASP.NET_Core_MVC)  
